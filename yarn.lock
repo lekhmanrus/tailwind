@@ -207,9 +207,9 @@
   integrity sha512-Fxt+AfXgjMoin2maPIYzFZnQjAXjAL0PHscM5pRTtatFqB+vZxAM9tLp2Optnuw3QOQC40jTNeGYFOMvyf7v9g==
 
 "@hookun/parse-animation-shorthand@^0.1.2":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/@hookun/parse-animation-shorthand/-/parse-animation-shorthand-0.1.2.tgz#07194bd265bb6973e9f03e4a7e7f8ddca7e5da2a"
-  integrity sha512-zLk0nzsF6WDjTRpEq7491pFxSPTOTzcGkCqcnHaSiYqZCJ6Nlq05srV331iyP5rqXaRl+QF7vzRhxLTyq+J+Mg==
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/@hookun/parse-animation-shorthand/-/parse-animation-shorthand-0.1.5.tgz#08d7d5d0b132c047f9879ae3807651d8c0753247"
+  integrity sha512-/fnwYK9Tgllhtv2EpwZZVbwhCokAoGtfEz23mZtjHMHvih4YeiAeUuVpyjGrTGf6j6ymgrCxGwUiAkAfDsmUjw==
 
 "@nativescript/webpack@^5.0.0-rc.4":
   version "5.0.0-rc.4"
